@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TASK/static/css/main.5a276253.css",
+    "main.js": "/TASK/static/js/main.1d8faaa7.js",
+    "static/js/453.e52305e5.chunk.js": "/TASK/static/js/453.e52305e5.chunk.js",
+    "static/media/Cancelled.svg": "/TASK/static/media/Cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
+    "static/media/Done.svg": "/TASK/static/media/Done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "index.html": "/TASK/index.html",
+    "static/media/in-progress.svg": "/TASK/static/media/in-progress.d4beb72fbc94f765259fc46ecaba9779.svg",
+    "static/media/Backlog.svg": "/TASK/static/media/Backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
+    "static/media/To-do.svg": "/TASK/static/media/To-do.c01d92afcffeef58b2cd9ae080df1f58.svg",
+    "main.5a276253.css.map": "/TASK/static/css/main.5a276253.css.map",
+    "main.1d8faaa7.js.map": "/TASK/static/js/main.1d8faaa7.js.map",
+    "453.e52305e5.chunk.js.map": "/TASK/static/js/453.e52305e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a276253.css",
+    "static/js/main.1d8faaa7.js"
+  ]
+}
